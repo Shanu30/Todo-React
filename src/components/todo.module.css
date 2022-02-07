@@ -1,0 +1,22 @@
+.strike{
+    text-decoration: line-through;
+    color: red;
+}
+.normal {
+    text-decoration: none;
+}
+.todoItem {
+    display: flex;
+}
+.inpt {
+    border: 1px solid rgb(154, 205, 50);
+    background-color: rgb(198, 245, 106);
+    width: 200px;
+    height: 30px
+}
+button {
+    border: 1px solid rgb(154, 205, 50);
+    background-color: rgb(198, 245, 106);
+    width: 50px;
+    height: 34px;
+}
